@@ -3,7 +3,7 @@
         <img src="../images/hamburger.png"/>
         
         <div class='profile'>
-            <h1>Hi Kony</h1>
+            <h1>Hello There!</h1>
             <h2> Let's make amezing projects!</h2>
         </div>
 
